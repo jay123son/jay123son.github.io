@@ -1,0 +1,14 @@
+body{
+    background-color:#AB784E;
+    color: #FFB6C1;
+    text-align: center;
+  }
+  a{
+    color: #57AB89;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
